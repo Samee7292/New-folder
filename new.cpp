@@ -12,4 +12,5 @@ int main()
     ptr=marks; // both marks and ptr pointing to the same element..  
     std::cout << "The value of *ptr is :" <<*ptr<< std::endl;  
     std::cout << "The value of *marks is :" <<*marks<<std::endl;  
+    cout<<"Hello";
 }  
